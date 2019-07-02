@@ -17,22 +17,37 @@ anchors:
     active: false
 ---
 
-Open XX
-[plugin:youtube](https://youtu.be/ptBpbXDczRU)
-Aktuell findet ein Paradigmenwechsel zu mehr Offenheit in der Gesellschaft, der Verwaltung, der Wirtschaft und auch der
-Wissenschaft statt.
-<a href="#" data-toggle="collapse" data-target="#openxdetails">Details...</a>
-  <p id="openxdetails" class="collapse text-justify">
-      Diese neue Form der Offenheit ist durch Begriffsbildungen mit dem Wort Open geprägt, weshalb wir in
-      diesem Kursteil namens
-      Open XX ausgewählte Facetten solcher Begriffsbildungen betrachten.
-      <br> Ziel der Lerneinheit ist es die wesentlichen Begriffe und Strömungen kennenzulernen und diese
-      einordnen
-      zu können. In der Übung setzen Sie sich intensiver mit Open Access und Open Source Software
-      auseinander.
-  </p>
+Auf dieser [Übersichtsseite](/uebersicht/kursuebersicht) werden die Kursteile mit einem motivierenden Trailer und einer Kurzbeschreibung vorgestellt. Eine [Modulbeschreibung](/uebersicht/self-assessment/OGE_Modulbeschreibung.pdf) zum offenen Online Kurs findet sich auf der nächsten Seite. Zu den einzelnen Kurs- und Übungsteilen existieren [Datenblätter](/uebersicht/datenblatt), die die benutzten Daten, Software, Funktionalitäten und erwartete Ergebnisse systematisch und ausführlich zusammenstellen.
 
-[plugin:youtube](https://youtu.be/PQ-d0F281Uo)
+Zudem gibt es ein [Werkzeug zur Selbsteinschätzung](http://test.opengeoedu.de/selfassessment.aspx), aus dem Hinweise und Empfehlungen zur Bearbeitung der Kursteile in Abhängigkeit vom Vorwissen des Nutzers gegeben werden. Ebenso steht ein [Workloadrechner](http://test.opengeoedu.de/workload.aspx) zur Verfügung, mit dem sich der Nutzer eine Auswahl der zu bearbeitenden Kursteile zusammenstellen kann und die entsprechende Workload dafür abgeschätzt wird.
+
+<div class="container">
+    <div class="row flex-wrap card-deck">
+        <div class="card m-2" id="openxx">
+            <h3 class="text-center">
+                Open XX
+            </h3>
+            [plugin:youtube](https://youtu.be/ptBpbXDczRU)
+            <div class="card-body text-justify">
+                Aktuell findet ein Paradigmenwechsel zu mehr Offenheit in der Gesellschaft, der Verwaltung, der
+                Wirtschaft und auch der Wissenschaft
+                statt.
+                <a href="#" data-toggle="collapse" data-target="#openxdetails">Details...</a>
+                <p id="openxdetails" class="collapse text-justify">
+                    Diese neue Form der Offenheit ist durch Begriffsbildungen mit dem Wort Open geprägt, weshalb wir in
+                    diesem Kursteil namens
+                    Open XX ausgewählte Facetten solcher Begriffsbildungen betrachten.
+                    <br> Ziel der Lerneinheit ist es die wesentlichen Begriffe und Strömungen kennenzulernen und diese
+                    einordnen
+                    zu können. In der Übung setzen Sie sich intensiver mit Open Access und Open Source Software
+                    auseinander.
+                </p>
+            </div>
+        </div>
+        <div class="card m-2" id="opendata">
+            <h3 class="text-center">Open Data</h3>
+            [plugin:youtube](https://youtu.be/PQ-d0F281Uo)
+            <div class="card-body text-justify">
                 Ein wesentlicher Teil der offenen Bewegung ist die Verfügbarmachung offener Daten.
                 <a href="#" data-toggle="collapse" data-target="#oddetails">Details...</a>
                 <p id="oddetails" class="collapse text-justify">
