@@ -50,25 +50,30 @@ external_links: false
                 </details>
             </div>
             <div class="card-footer">
-                    <a href="https://ilias.opengeoedu.de"><button class="btn mx-1">Test</button></a>
-                    <a href="https://ilias.opengeoedu.de"><button class="btn mx-1">ILIAS</button></a>
+                <a href="https://ilias.opengeoedu.de"><button class="btn mx-1">Test</button></a>
+                <a href="https://ilias.opengeoedu.de"><button class="btn mx-1">ILIAS</button></a>
             </div>
         </div>
     </div>
     <div class="column col-4 col-md-6 col-sm-12">
         <div class="card">
             <div class="card-image">[plugin:youtube](https://youtu.be/PQ-d0F281Uo)
-                </div>
+            </div>
             <div class="card-header">
                 <div class="card-title h5">Open Data</div>
-                <div class="card-subtitle text-gray">            Ein wesentlicher Teil der offenen Bewegung ist die Verfügbarmachung offener Daten.
-                    </div>
+                <div class="card-subtitle text-gray"> Ein wesentlicher Teil der offenen Bewegung ist die
+                    Verfügbarmachung offener Daten.
+                </div>
             </div>
-            <div class="card-body">In diesem Kursteil betrachten wir verschiedene Aspekte offener Daten, so z.B. aus dem Bereich der Verwaltung (Open
-                    Government Data), der Wissenschaft (Open Science) oder der Zivilgesellschaft (OpenStreetMap oder Citizen Science).
-                    Ziel der Lerneinheit ist es offene Daten und deren Nutzbarkeit einschätzen zu können. In der Übung betrachten und
-                    vergleichen Sie offene Datenportale und lernen wie offene Daten aufbereitet und einer Nutzung, zumeist in einem
-                    Geo-Informationssystem (GIS) zugeführt werden.</div>
+            <div class="card-body">In diesem Kursteil betrachten wir verschiedene Aspekte offener Daten, so z.B. aus dem
+                Bereich der Verwaltung (Open
+                Government Data), der Wissenschaft (Open Science) oder der Zivilgesellschaft (OpenStreetMap oder Citizen
+                Science).
+                Ziel der Lerneinheit ist es offene Daten und deren Nutzbarkeit einschätzen zu können. In der Übung
+                betrachten und
+                vergleichen Sie offene Datenportale und lernen wie offene Daten aufbereitet und einer Nutzung, zumeist
+                in einem
+                Geo-Informationssystem (GIS) zugeführt werden.</div>
             <div class="card-footer">
                 <div class="btn-group btn-group-block">
                     <button class="btn btn-primary">Buy</button>
@@ -77,5 +82,3 @@ external_links: false
             </div>
         </div>
     </div>
-
-</div>
